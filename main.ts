@@ -15,7 +15,6 @@ export class MainPage {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad Test0Page');
     this.httpFunction()
   }
 
